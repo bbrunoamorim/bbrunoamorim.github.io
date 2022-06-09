@@ -1,0 +1,21 @@
+<style>
+
+    .images {
+        border-radius: 40px;
+    }
+
+    .button {
+        background-color: rgba(63, 105, 221, 0.945);
+        line-height: 30px;
+        padding: 4px 10px;
+        text-decoration: none; 
+        color: white;
+        border-radius: 15px;
+        font-weight: 750;
+    }
+
+    h1 {
+        
+    }
+
+</style>
