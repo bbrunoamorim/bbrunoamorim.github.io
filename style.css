@@ -7,13 +7,13 @@
 }
 
 body {
-  background-image: linear-gradient(to bottom right, #7A8183, #12C1F0);
+  background-image: linear-gradient(to bottom right, #7a8183, #12c1f0);
   font-family: 'Montserrat', sans-serif;
   color: white;
 }
 
 .button {
-  background-color: #F69732;
+  background-color: #f69732;
   line-height: 30px;
   padding: 4px 10px;
   text-decoration: none;
