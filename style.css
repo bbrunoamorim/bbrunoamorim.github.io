@@ -1,21 +1,51 @@
-<style>
+#name {
+  text-align: center;
+}
 
-    .images {
-        border-radius: 40px;
-    }
+.images {
+  border-radius: 40px;
+}
 
-    .button {
-        background-color: rgba(63, 105, 221, 0.945);
-        line-height: 30px;
-        padding: 4px 10px;
-        text-decoration: none; 
-        color: white;
-        border-radius: 15px;
-        font-weight: 750;
-    }
+body {
+  background-image: linear-gradient(to bottom right, #7A8183, #12C1F0);
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
 
-    h1 {
-        
-    }
+.button {
+  background-color: #F69732;
+  line-height: 30px;
+  padding: 4px 10px;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  font-weight: 600;
+  font-size: 13px;
+}
 
-</style>
+#photo {
+  float: left;
+  margin: 0px 30px;
+  /* border: 2px solid red; */
+}
+
+#description {
+  float: left;
+  /* border: 2px solid blue; */
+}
+
+#description > a {
+  text-decoration: none;
+}
+
+#text {
+  clear: both;
+  /* border: 1px solid yellow; */
+  padding: 20px;
+}
+
+.links {
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
